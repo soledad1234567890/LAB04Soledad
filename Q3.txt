@@ -1,0 +1,14 @@
+—¿Cómo es que se instalan paquetes con yarn?
+Después de instalar Yarn puedes empezar a utilizarlo ejecutando un simple comando:
+yarn init
+Puedes utilizar hilo incluso si ya estabas trabajando con npm ,
+ lo único que debes de hacer es borrar el archivo package-lock.json para que hilo trabaje sin problemas
+
+—¿Cómo es que se borran paquetes con yarn?
+La ejecución yarn remove foo eliminará el paquete nombrado foo de sus dependencias directas
+ actualizando sus archivos package.jsony yarn.locken el proceso.
+
+yarn remove[package] 
+—¿Hay algún equivalente en yarn que haga lo mismo que npm init?
+si
+yarn init

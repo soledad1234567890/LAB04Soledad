@@ -1,0 +1,2 @@
+Esta utilidad le guiará en la creación de un archivo package.json.
+Sólo cubre los elementos más comunes e intenta adivinar valores predeterminados sensatos
